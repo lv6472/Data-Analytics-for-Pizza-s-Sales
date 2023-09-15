@@ -39,6 +39,6 @@ We invite contributions to **Data Analytics for Pizza Sales**! If you have ideas
 
 
 ## Contact
-PHONE NO-7820807045
-EMAIL-hv8926@srmist.edu.in
-EMAIL-dhayapuleh@gmail.com
+PHONE NO-8239030505
+EMAIL-lv6472@srmist.edu.in
+EMAIL-lakshayvj6574@gmail.com
